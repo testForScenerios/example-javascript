@@ -9,4 +9,4 @@ brew tap srcclr/srcclr
 brew install srcclr
 srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
-```somechange1234567
+```somechange12345678
